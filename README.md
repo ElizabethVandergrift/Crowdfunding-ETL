@@ -55,6 +55,8 @@ Using two methods for extracting and transforming data from the `contacts.xlsx` 
     - Use the 4 new CSV files to sketch an ERD.
     - Use the ERD to create a table schema.
 
+![image](https://github.com/user-attachments/assets/3e81b8c8-e20a-465c-83bf-e27dcb09afb2)
+
 2. **Create Postgres Database**:
     - Create SQL tables in the correct order for keys based on the schema.
     - Import CSV files into the corresponding tables.
